@@ -1,0 +1,16 @@
+
+
+export TEST_USER_ADDRESS=0x123
+export DEFAULT_CLAIM_EXPIRY_DURATION=5184000
+export DEFAULT_MAX_PICKS_PER_USER=1
+export FORK_ENABLED=true
+export ALCHEMY_URL=https://opt-mainnet.g.alchemy.com/v2/...
+export BOT_PRIVATE_KEY=123
+export FORK_PINNED_BLOCK=40831893
+
+export TEST_CHAIN_ID=10
+
+export POLYGON_RPC_URL=https://polygon-mainnet.g.alchemy.com/v2/...
+export OPTIMISIM_RPC_URL=https://opt-mainnet.g.alchemy.com/v2/...
+export ETHEREUM_RPC_URL=https://eth-mainnet.g.alchemy.com/v2/...
+export AVALANCE_RPC_URL=https://api.avax.network/ext/bc/C/rpc
